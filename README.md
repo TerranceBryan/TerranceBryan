@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TerranceBryan
-- 👀 I’m interested in HTML, CSS, Bootstrap, Javascript
-- 🌱 I’m currently learning Javascript, Python Django
+- 👀 I’m a Frontend Developer 
+- 🌱 I’m currently learning Javascript, Php 
+- 😌 I've already bagged HTML, CSS and bootstrap framework skills 
 
 
 <!---
